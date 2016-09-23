@@ -1,3 +1,5 @@
+###################### Author: Francisco Jurman
+###################### Email: fjurman@hotmail.com
 ###################### Version 3
 ######################
 
@@ -7,9 +9,6 @@ $firmware_versionXM = "5.6.4"
 $firmware_nameXW = "XW.v5.6.4.28924.160331.1238.bin"
 $firmware_versionXW = "5.6.4"
 $panel_user = 'admin'
-#$panel_pass = ''
-#$cliente_user = ''
-#$cliente_pass = '1'
 $port = 8822
 $subs = []
 ip = ARGV[0] ? ARGV[0] : '192.168.1.20'
